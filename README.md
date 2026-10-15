@@ -66,5 +66,5 @@ LEAD INTELLIGENCE CRM
 TELEGRAM NOTIFICATION.
 
 
-Author
+**Author**
 ZeeXtech
