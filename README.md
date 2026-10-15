@@ -13,7 +13,7 @@ qualification criteria, generates personalized outreach drafts for suitable lead
 reviewer through Telegram. Approved, rejected, and revision-requested outcomes are then recorded in 
 Airtable. 
 
-Tools used 
+**Tools used**
 ● n8n 
 ● Airtable 
 ● Firecrawl 
@@ -34,7 +34,7 @@ Key features
 ● CRM status updates 
 ● Qualified and disqualified lead handling
 
-Business value 
+**Business value** 
 ● Reduces repetitive lead research 
 ● Creates a consistent qualification process 
 ● Improves the relevance of outreach drafts 
@@ -43,10 +43,10 @@ Business value
 ● Creates a reusable foundation for sales automation
 
 
-Workflow Stages
+**Workflow Stages**
 NEW ↓ RESEARCHING ↓ QUALIFIED ↓ READY FOR OUTREACH ↓ CONTACTED
 
-Features
+**Features**
 AI Lead Intelligence
 Automated Website Research
 Lead Scoring
@@ -54,8 +54,16 @@ Opportunity Detection
 Personalized Outreach Generation
 Human Approval Workflow
 CRM Automation
-Screenshots
+**Screenshots**
+
 <img width="1600" height="871" alt="image" src="https://github.com/user-attachments/assets/5f844f83-aa21-450f-9971-3b2f78a4921d" />
+WORKFLOW OVERVIEW
+
+<img width="1600" height="862" alt="image" src="https://github.com/user-attachments/assets/315420ec-6ff0-4df9-b53e-3efe4ca1c68f" />
+LEAD INTELLIGENCE CRM
+
+<img width="1287" height="894" alt="image" src="https://github.com/user-attachments/assets/7136b914-cbb9-45f1-8292-9a62662355e7" />
+TELEGRAM NOTIFICATION.
 
 
 Author
